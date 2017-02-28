@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Apliakcja Inglot</string>
+    <string name="inglot">Inglot</string>
+    <string name="login">login</string>
+    <string name="password">hasło</string>
+    <string name="signup">Logowanie</string>
+    <string name="action_settings">Ustawienia</string>
+	<string name="logoutBtn">Wyloguj</string>
+	<string name="Welcome">Witaj!</string>
+
+</resources>
